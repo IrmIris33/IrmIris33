@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a React based 
-- 🌱 I’m currently learning React Native Mobile Development, Javascript, HTML, CSS
+- 🔭 I’m currently working on a React based website for special needs individuals.
+- 🌱 I’m currently learning React Native Mobile Development, Javascript, HTML, CSS, AWS.
 - 👯 I’m looking to collaborate on any tech project to assist me in mastering JS, HTML, CSS, React Native.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
